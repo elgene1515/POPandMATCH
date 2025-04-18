@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Menu.unity
+    guid: 21d5b089de26caf46857a0ce17e63093
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Categories.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Options.unity
+    guid: a517a1ff561a2cd45bc870e3595bb7a1
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/About.unity
+    guid: df63f5d096351e546a3d16bb0ce244b3
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/How.unity
+    guid: 0b218faf9318b6f4cb0a842aef1bafc0
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/How 1.unity
+    guid: 20600660f7033a64cb430f7d6f9d87ee
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/How 2.unity
+    guid: 39cb3f97f30abf445a74b0bd18673c8e
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/How 3.unity
+    guid: 30d84c951bc53c24aa12e36663ce89ef
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/How 4.unity
+    guid: a1d18cf0e47a3f549998e9b72afabba3
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/How 5.unity
+    guid: 3e49e2a0d54f3d04cbbbb84a14919e1e
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Country.unity
+    guid: 9f66b79d28b19444bb2a38bb0466ad3b
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Country 2.unity
+    guid: db5e9b917927fff4a86e3ba0577f6838
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Country 3.unity
+    guid: 344df4e5a95ca9d458c1b6c40336140e
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/English.unity
+    guid: c7dc40580ad85a440af7f6a490247a09
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/English 2.unity
+    guid: ffa3a3aa0dfeccf41a039aa6fa924d2e
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/English 3.unity
+    guid: 2b6cb646a6fdb6e42bca2afa48dd4f58
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Arts.unity
+    guid: f9d67582181652849b9f9850131f1c73
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Arts 2.unity
+    guid: 0f9b3c8350b2bf34baec5d52ad0a29ef
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Arts 3.unity
+    guid: d0d8b5653910dd843a8b8a243d21f6e0
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Music.unity
+    guid: 34deb49e2ed0d444fa8f099144efe9aa
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Music 2.unity
+    guid: 7982d2bfb1da2fe45a6778d91adae0d2
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Music 3.unity
+    guid: 5d7bc4905c43ed5438dfbfdcc3a66724
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Mathematics.unity
+    guid: 25819ebd85f3a4848813a2a5ae3e7b8e
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Mathematics 2.unity
+    guid: 23523bef2d61c1548970ebbadc5efac1
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Mathematics 3.unity
+    guid: 76f54179cadcd6a4ba4a5aaac1cc1e8b
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Science.unity
+    guid: 29388e587fc92a045b2795217f99bd15
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Science 2.unity
+    guid: 266078648cc7be74782218a27f30242a
+  - enabled: 1
+    path: Assets/Scenes AND Frebab/Science 3.unity
+    guid: 8cca9370b5261744b9315cd868e08dbf
+  m_configObjects: {}

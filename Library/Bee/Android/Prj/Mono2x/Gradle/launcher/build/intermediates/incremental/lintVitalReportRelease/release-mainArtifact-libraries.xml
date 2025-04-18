@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="C:\Users\ELGENE\POPandMATCH\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="C:\Users\ELGENE\POPandMATCH\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\61cf11895ec5f3e79cada434dbdb667c\transformed\out\jars\classes.jar;C:\Users\ELGENE\POPandMATCH\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\61cf11895ec5f3e79cada434dbdb667c\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\ELGENE\POPandMATCH\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\61cf11895ec5f3e79cada434dbdb667c\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\ELGENE\POPandMATCH\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\ELGENE\POPandMATCH\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\ELGENE\POPandMATCH\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>
